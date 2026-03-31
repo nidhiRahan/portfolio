@@ -1,0 +1,39 @@
+.idea/
+node_modules/
+
+# Build / production
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Editor directories
+.vscode/
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+coverage/
+.turbo/
+.cache/
+/.pnp
+/.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+yarn.lock
+
+# npm
+package-lock.json
