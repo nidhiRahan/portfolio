@@ -1,13 +1,13 @@
 const DUMMY_PROJECTS = [
     {
         projectTitle: 'HRMS',
-        description: 'This project is a React app to generate a creative professional website based on Data provided. The website uses no backend and is free to fork and use.',
+        description: 'A Human Resource Management System built using Java & Spring Boot to manage employee data, attendance, and roles. Provides secure authentication and efficient database handling',
         sourceLink: 'https://github.com/nidhirahan/HRMS.git',
         lastUpdated: 'Jan 20 2025'
     },
     {
         projectTitle: 'ERP',
-        description: 'A React project to get a track of weekly expenses. It also creates a graphical data to help monitor the expenses on daily basis',
+        description: 'An ERP system using Java & Spring Boot to track expenses and business operations. Includes data analytics and structured backend processing',
         sourceLink: 'https://github.com/nidhirahan/erp.git',
         lastUpdated: 'Dec 30 2022'
     },
@@ -19,13 +19,13 @@ const DUMMY_PROJECTS = [
     },
     {
         projectTitle: 'Food Order Website',
-        description: 'It is a React based website demonstrating how food order works with Cart updates and storing it in Firebase Database.',
+        description: 'A full-stack food ordering system with backend APIs for managing orders, cart, and user data.',
         sourceLink: 'https://github.com/nidhirahan/food-order-react.git',
         lastUpdated: 'Jan 25 2023'
     },
     {
         projectTitle: 'Space Tourism Website',
-        description: 'It is a solution to challenge of FrontEnd Mentors. It is a React website to depict facts about our Solar System. ',
+        description: 'A responsive web application showcasing space-related data with clean UI and structured content delivery',
         sourceLink: 'https://github.com/nidhirahan/space-tour.git',
         lastUpdated: 'Oct 16 2022'
     },
@@ -42,9 +42,9 @@ const DUMMY_PROJECTS = [
         lastUpdated: 'Oct 24 2022'
     },
     {
-        projectTitle: 'Calculator',
-        description: 'A Calculator to do basic operations. It is a React app with three different themes.',
-        sourceLink: 'https://github.com/nidhirahan/calculator.git',
+        projectTitle: 'CRM',
+        description: 'A CRM application developed with Java and Spring Boot to manage customer data, leads, and sales activities. Designed with REST APIs and scalable architecture',
+        sourceLink: 'https://github.com/nidhirahan/crm.git',
         lastUpdated: 'Sep 26 2022'
     },
 ];
